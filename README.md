@@ -41,5 +41,6 @@ I design and deploy **production-grade Causal AI pipelines** (`EconML`, `DoWhy`,
 
 Available for **Enterprise Advisory, Causal Leakage Audits, and Custom AI Pipeline Architecture** ($25k–$35k engagements).
 
-* 📩 **Email:** Contact via GitHub / LinkedIn
-* 💼 **LinkedIn:** Connect on LinkedIn
+* ✉️ **Email:** [ikamranali7@gmail.com](mailto:ikamranali7@gmail.com) *(or your preferred work email)*
+* 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/ikamranali7)
+* 📁 **Portfolio Repo:** [enterprise-causal-ai-architect](https://github.com/ikamranali7-stack/enterprise-causal-ai-architect)
